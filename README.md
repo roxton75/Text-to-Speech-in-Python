@@ -43,15 +43,15 @@ Ensure any necessary dependencies, such as the Microsoft Speech API (SAPI) on Wi
 
 This is a basic python script that can be run on the terminal.
 
-![App Screenshot](https://via.placeholder.com/468x30![Screenshot 2024-08-31 142012](https://github.com/user-attachments/assets/ccbbd429-acfe-459c-b1ae-4a45267b1eda)
-0?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/user-attachments/assets/ccbbd429-acfe-459c-b1ae-4a45267b1eda)
+
 
 This is the GUI veersion of above python code that made using the integration of Tkinter Library generally used to make GUI in python.
 
-![App Screenshot](https://via.placeholder.com/468x![Screenshot 2024-08-31 135238](https://github.com/user-attachments/assets/31f9ce0d-d8be-44ec-89a5-338b5dba7ac9)
-300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/user-attachments/assets/31f9ce0d-d8be-44ec-89a5-338b5dba7ac9)
 
-## How to Run CLI version 
+
+## NOTE to Run CLI version 
 
 NOTE : 
 
