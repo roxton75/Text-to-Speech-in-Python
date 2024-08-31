@@ -1,3 +1,4 @@
+
 # Text to Speech using python 
 
 This is a basic python mirco-project done using Text to Speech Library.
@@ -43,7 +44,7 @@ Ensure any necessary dependencies, such as the Microsoft Speech API (SAPI) on Wi
 
 This is a basic python script that can be run on the terminal.
 
-![App Screenshot](https://github.com/user-attachments/assets/ccbbd429-acfe-459c-b1ae-4a45267b1eda)
+![App Screenshot](https://github.com/user-attachments/assets/580ec5f2-6ba7-45a1-b5a9-9df28dfa93b2)
 
 
 This is the GUI veersion of above python code that made using the integration of Tkinter Library generally used to make GUI in python.
